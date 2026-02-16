@@ -11,7 +11,7 @@ title = "ScomSoc Imperial"
   dateFormat = "2 January 2006"
   logo = "assets/img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+   description = "Student community for science communication (scom) at Imperial College London"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
