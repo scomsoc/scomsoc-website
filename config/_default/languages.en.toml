@@ -9,15 +9,15 @@ title = "ScomSoc Imperial"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "assets/img/logo.png"
+  logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
    description = "Student community for science communication (scom) at Imperial College London"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+ [params.author]
+   name = "ScomSoc"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+   image = "logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"

@@ -2,8 +2,11 @@
 title: "Welcome To Science Communication Society!"
 description: 'Welcome'
 ---
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert"> Err..., what is science communication? We are a student community of science communicators at Imperial! Something something
-  </span>
-</div>
+
+**"Science is not finished until it's communicated"** ~Sir Mark Walport
+
+Whether you want to become the next David Attenborough or simply would like to get better at communicating your research, you have come to the right Society. We regularly run events about fun science communication (check when the next event is).
+
+There are cool science communication events you could attend across London, feel free to sign up for them (you can make videos or write blogs about the event, too)!
+
+And of course, if you are a science communication pro, join our core team, and help shape the Society.

@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "📣 Join Us "
-  weight = 20
+  name = "📣 Join Team "
+  weight = 60
 
 [[main]]
   name = "📅 Events"
@@ -35,7 +35,7 @@
   weight = 20
 
 [[main]]
-  name = "📚 SciComm Resources"
+  name = "📚 Resources"
   weight = 40
 
 [[main]]

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome To Science Communication Society! on ScomSoc Imperial</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/scomsoc-website/</link>
     <description>Recent content in Welcome To Science Communication Society! on ScomSoc Imperial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 ScomSoc</copyright>
+    <atom:link href="http://localhost:1313/scomsoc-website/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/scomsoc-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/scomsoc-website/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/london-events/</link>
+      <link>http://localhost:1313/scomsoc-website/london-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/london-events/</guid>
+      <guid>http://localhost:1313/scomsoc-website/london-events/</guid>
       <description></description>
       
     </item>
