@@ -17,6 +17,7 @@
 
 [[main]]
   name = "📣 Join Team "
+  url = "https://forms.gle/kXJoqAaT7Y82gpR18"
   weight = 60
 
 [[main]]
@@ -31,6 +32,7 @@
 
 [[main]]
   name = " 🎉 SciComSoc Events"
+  pageRef =  "scomsoc-events"
   parent = "📅 Events"
   weight = 20
 
@@ -40,6 +42,7 @@
 
 [[main]]
   name = " 📝 Blog"
+  pageRef = "blog"
   weight = 50
   
 
