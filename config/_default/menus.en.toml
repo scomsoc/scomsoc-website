@@ -92,5 +92,5 @@
 
  [[footer]]
    name = " 📧 Contact Us"
-   pageRef = "categories"
+   url = 'mailto:scomsocimperial@gmail.com'
    weight = 20
