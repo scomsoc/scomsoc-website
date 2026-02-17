@@ -38,6 +38,7 @@
 
 [[main]]
   name = "📚 Resources"
+  pageRef = 'resources'
   weight = 40
 
 [[main]]
