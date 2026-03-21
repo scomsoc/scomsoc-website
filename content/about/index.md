@@ -1,5 +1,5 @@
 ---
-title: What does ScomSoc Do?
+title: What does scomsoc Do?
 showDate: false
 showWordCount: false
 showReadingTime: false

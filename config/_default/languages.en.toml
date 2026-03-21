@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "ScomSoc Imperial"
+title = "scomsoc Imperial"
 
 [params]
   displayName = "EN"
@@ -15,7 +15,7 @@ title = "ScomSoc Imperial"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "ScomSoc"
+   name = "scomsoc"
 #   email = "youremail@example.com"
    image = "logo.png"
 #   imageQuality = 96

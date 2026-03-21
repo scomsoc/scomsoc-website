@@ -1,5 +1,5 @@
 ---
-title: "ScomSoc Events"
+title: "scomsoc Events"
 showDate: false
 ---
-Scomsoc hosts fun workshops, trips, and competitions. Check back to know more!
+scomsoc hosts fun workshops, trips, and competitions. Check back to know more!

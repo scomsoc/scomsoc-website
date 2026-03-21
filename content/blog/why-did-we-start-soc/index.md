@@ -1,5 +1,5 @@
 ---
-title: "Why Did We Start ScomSoc?"
+title: "Why Did We Start scomsoc?"
 date: 2026-02-16
 ---
 
